@@ -9,7 +9,7 @@ End‑to‑end data engineering workflow using **Pandas** + **SQLAlchemy** to cl
 
 ## 📦 Dataset
 
-- **Source**: Kaggle — Unlock Profits with E‑Commerce Sales Data 🔗 [link]((https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?utm_source=chatgpt.com)) 
+- **Source**: Kaggle
 - **Raw file used**: `Amazon Sale Report.csv`  
 - **Raw shape**: `128,975 rows × 24 columns`
 
