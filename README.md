@@ -13,7 +13,6 @@ End‑to‑end data engineering workflow using **Pandas** + **SQLAlchemy** to cl
 - **Raw file used**: `Amazon Sale Report.csv`  
 - **Raw shape**: `128,975 rows × 24 columns`
 
-📂 Project Structure (recommended)
 
 
 
